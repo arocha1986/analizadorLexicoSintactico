@@ -1,0 +1,43 @@
+
+
+
+
+main()
+main(int arv,char *args){}
+while(cont!=1)
+int con=9;
+
+cont=9/9;
+cont=10+10;
+cont=cont+cont;
+cont=10+cont;
+cont=cont+10;
+
+
+cont=10-cont;
+
+cont=10-10;
+
+cont=cont*cont;
+cont=10*cont;
+cont=cont*10;
+cont=10*10;
+
+cont=cont/cont;
+cont=10/cont;
+cont=cont/10;
+cont=10/10;
+
+
+cont++;
+++cont;
+--cont;
+cont =9/0;
+
+if
+while
+do
+for
+
+
+
